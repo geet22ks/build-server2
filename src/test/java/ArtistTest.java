@@ -1,6 +1,6 @@
 import org.junit.*;
 
-public class ArtistTest123 {
+public class ArtistTest {
     @Test
     public void testSomething() {
         Assert.assertTrue(true);

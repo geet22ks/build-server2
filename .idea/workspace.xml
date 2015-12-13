@@ -46,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArtistTest123.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ArtistTest123.java">
+      <file leaf-file-name="ArtistTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ArtistTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35416666">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.1328125">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -80,6 +80,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Artisttest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ArtistTest123.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ArtistTest.java" />
       </list>
     </option>
   </component>
@@ -610,6 +611,9 @@
     <history-entry file="test_in_build-server - 2015.12.13 at 16h 05m 27s.xml">
       <configuration name="test in build-server" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="test_in_build-server - 2015.12.13 at 16h 28m 41s.xml">
+      <configuration name="test in build-server" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="29" width="1346" height="688" extended-state="0" />
@@ -670,10 +674,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ArtistTest123.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ArtistTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35416666">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.1328125">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
           <folding />
         </state>
       </provider>
